@@ -1,1 +1,42 @@
-# Cara-Verifikiasi-Perfect-Money-Register-PerfectMoney
+Cara Daftar dan Verifikasi Perfect Money | Register Perfect Money
+CARA DAFTAR/REGISTER DAN VERIFIKASI PERFECT MONEY 
+
+Register/Daftar Perfect Money
+
+1. Daftar Akun Perfect Money di Website Resmi Perfect Money: https://perfectmoney.is
+Click Link Register Perfect Money >> https://perfectmoney.is/signup.html
+Silahkan isi form register dibawah ini sesuai dengan data asli diri anda misalnya sesuai ktp/sim/passport. 
+
+[​IMG]
+
+
+
+
+2. Setelah selesai isi Form dan mengklik Tombol Daftar,
+Silahkan cek email anda untuk mendapatkan Member ID PerfectMoney anda
+Copy dan Save Member ID Perfect Money anda. 
+Member ID digunakan sebagai id untuk Login di member area PerfectMoney
+
+[​IMG]
+
+
+
+3. Setelah mendapatkan Member id anda silahkan Login ke member area 
+Klik disini untuk Login > https://perfectmoney.is/login.html
+
+[​IMG]
+
+
+
+
+4. Setelah Login silahkan lakukan Verifikasi Identitas berupa KTP atau SIM 
+dan Verifikasi tempat tinggal berupah Bill Tagihan Telkom atau listrik 
+Klik disini untuk verifikasi Akun Perfect Money anda >>
+https://perfectmoney.is/verify.html
+
+[​IMG]
+
+5. Proses Verifikasi memakan waktu hingga 48 jam kerja
+silahkan menunggu hingga akun anda di validasi. 
+
+INFO LEBIH LANJUT ( https://www.imperialchanger.net/panduan.html?id=Cara_Verifikasi_Perfect_Money )
